@@ -4,7 +4,6 @@
 
 ### got 125/125 score.
 
-1. 함수명
-|목적|방법|
-|---|---|
-|a|a|
+## Desription
+
+### This subject will make you implement C library functions in stdlib, string, stdio.
